@@ -15,7 +15,7 @@
     <br> 
     <strong> sports football </strong>
     <br>
-    <p> I like alot football is a part of my life  </p>
+    <p> I like alot traveling around the world </p>
     <a href=""> partial ict
     <ul>
     <strong>  Travel  </strong>
