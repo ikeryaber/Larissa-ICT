@@ -1,5 +1,4 @@
-# Larissa-ICT
-#  Ict-Project sports-football
+#  Ict-Project Larissa-ICT
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -13,13 +12,12 @@
   <body>
     <i> 09 may 2025 </i>
     <br> 
-    <strong> sports football </strong>
+    <strong> traveling </strong>
     <br>
     <p> I like alot traveling around the world </p>
     <a href=""> partial ict
     <ul>
     <strong>  Travel  </strong>
-      <p> I travel around all the world and i like it but my favorite place is amsterdam because of all the thinhs you do there and the places are beutiful and in mexico my favorite place is puerto escondido i go once a year and me and my dad we love it  </p>
+      <p> I love to travel. I like to learn about new cultures and history of the places around the world and would like to travel to every place possible. My favourite place to go in the world is Amsterdam because of all the things to do there and because it is so beautiful all year round. In Mexico my favourite place is Puerto escondido. I go every summer with my dad. I love Puerto Escondido because its beaches are very beautiful but very fun. </p>
      <strong>   About me  </strong>  
-      <p>  my birthday is on January 20th 2011. I have a little brother, a dog and a cat  </p>
-     
+      <p>  my birthday is on January 20th 2011. I have a little brother, a dog and a cat My parents are divorced so I am one day in my dad’s house and the next in my mother’s house.  </p>
